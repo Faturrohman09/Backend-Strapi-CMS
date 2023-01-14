@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_content_title_with_subtitle_s",
+  "info": {
+    "displayName": "title with subtitle ",
+    "icon": "biohazard",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "subtitle": {
+      "type": "richtext"
+    }
+  }
+}
